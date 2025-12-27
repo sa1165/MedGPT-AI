@@ -1,0 +1,32 @@
+# Node
+node_modules/
+.next/
+out/
+build/
+dist/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+.env
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project specific
+backend/debug_response.txt
+backend/diag_results.txt
+backend/models.txt
+backend/ollama_err.txt
+backend/test_results.txt
+backend/debug_response.txt
